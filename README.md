@@ -11,8 +11,8 @@
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-Oğuzhan%20Akkoç-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhan-akkoc/)](https://www.linkedin.com/in/oguzhan-akkoc/)
-[![Mail](https://img.shields.io/badge/-oguzhan@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oguzhan@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Oğuzhan%20Akkoç-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuzhan-akko%C3%A7/)
+[![Mail](https://img.shields.io/badge/-oguzhanlakkoc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oguzhanlakkoc@gmail.com)
 
 ---
 
@@ -24,11 +24,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhanakkoc&show_icons=true&theme=radical" alt="stats"/>
 </p>
