@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **oguzhan@example.com**
 
-- 📄 Know more about me at [LinkedIn](https://linkedin.com/in/oguzhanakkoc)
+- 📄 Know more about me at [LinkedIn](www.linkedin.com/in/oğuzhan-akkoç)
 
 ---
 
