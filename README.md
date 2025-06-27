@@ -7,9 +7,12 @@
 
 - 💬 Ask me about **Flutter, Firebase, AI-based mobile apps**
 
-- 📫 How to reach me: **oguzhan@example.com**
+---
 
-- 📄 Know more about me at [LinkedIn](www.linkedin.com/in/oğuzhan-akkoç)
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-Oğuzhan%20Akkoç-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhan-akkoc/)](https://www.linkedin.com/in/oguzhan-akkoc/)
+[![Mail](https://img.shields.io/badge/-oguzhan@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oguzhan@example.com)
 
 ---
 
