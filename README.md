@@ -17,7 +17,7 @@
 - 💻 **Dev:** Passionate about Mobile App Development with a focus on **Flutter & Firebase**.
 - 📱 **Current:** Mastering **Java & Kotlin** to dominate the Android ecosystem.
 - ⚡ **Interest:** Exploring AI integration in mobile apps and modern UI/UX trends.
-- 🎯 **2025 Goals:** Contribute to major open-source projects and deliver 3+ high-impact apps.
+- 🎯 **2025 Goals:** Contribute to major open-source projects and deliver impactful apps.
 - 🚀 **Mission:** Building seamless, secure, and innovative mobile solutions.
 
 ---
