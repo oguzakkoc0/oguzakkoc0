@@ -41,11 +41,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzakkoc0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzakkoc0&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzakkoc0&theme=radical&hide_border=false" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzakkoc0&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
