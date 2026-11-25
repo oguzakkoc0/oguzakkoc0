@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Oğuzhan Akkoç</h1>
-  <p>🚀 <b>Mobile App Developer (Flutter & Android) | Computer Engineering</b></p>
+  <p>🚀 <b>Mobile App Developer (Flutter & Android) | Computer Engineer</b></p>
 
   <a href="mailto:oguzhanlakkoc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-akko%C3%A7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
